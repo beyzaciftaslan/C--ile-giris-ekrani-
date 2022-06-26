@@ -1,0 +1,11 @@
+C:\Users\Beyza\Desktop\proje_loginekrani\bin\Debug\proje_loginekrani.exe.config
+C:\Users\Beyza\Desktop\proje_loginekrani\bin\Debug\proje_loginekrani.exe
+C:\Users\Beyza\Desktop\proje_loginekrani\bin\Debug\proje_loginekrani.pdb
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.Form1.resources
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.Properties.Resources.resources
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.exe
+C:\Users\Beyza\Desktop\proje_loginekrani\obj\Debug\proje_loginekrani.pdb
